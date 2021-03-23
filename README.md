@@ -1,6 +1,6 @@
 ### Hi guys, let's train.
 
-![background](./
+<img src="/background.jpg"/>
 [portifolio](https://www.google.com.br)
 
 <!--
