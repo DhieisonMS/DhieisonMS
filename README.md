@@ -1,6 +1,6 @@
 ### Hi guys, let's train.
 
-<img src="/background.jpg" width="80%" height="700px" align="left"/>
+
 [portifolio](https://www.google.com.br)
 
 <!--
