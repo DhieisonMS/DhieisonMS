@@ -1,6 +1,6 @@
-### Hi guys, let's train.
+# Hi
+#### My name is Dhieison, I am studying web development and the devops culture always seeking to learn and improve
 
-<img src="/background.jpg" width="80%" />
 
 [hello](https://www.google.com.br)
 
